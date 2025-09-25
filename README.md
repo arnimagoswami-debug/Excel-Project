@@ -12,10 +12,14 @@ Profit Margin: 40%
 
 ✅ Visualizations:
 
-📌 Sales by Category (Women, Men, Kids)
+📌 Sales by Category (Women, Men, Kids)  
+
 🌍 Sales by State (Map chart – Rajasthan, Maharashtra, etc.)
+
 📅 Profit by Month (Bar chart – January to December)
+
 🧍‍♂️ Top 5 Customers (Jonathan Brown, Christopher Smith, etc.)
+
 👗 Profit by Clothing Type (Dresses, Skirts, Shirts, etc.)
 
 ✅ Filter Options:
