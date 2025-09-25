@@ -45,9 +45,14 @@ Data Formatting and KPI Metrics
 📈 Key Insights
 
 Women category contributes the highest (34%) to total sales.
+
+
 Rajasthan leads in sales revenue among states.
+
 Jonathan Brown is the top customer with $52K in sales.
+
 Profitability is highest in August, with a drop in December.
+
 Top clothing types by profit: Dresses, Skirts, Pants.
 
 📬 Contact
