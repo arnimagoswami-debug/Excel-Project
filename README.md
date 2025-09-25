@@ -3,11 +3,15 @@
 This project presents a comprehensive Sales and Profit Dashboard for Zudio, created using Microsoft Excel. It is designed to help track and analyze business performance through interactive visualizations, allowing for quick decision-making based on data insights.
 
 📊 Features
+
 ✅ Summary KPIs:
 
 Total Sales: $60,026
+
 Total Profit: $24,010
+
 Total Orders: 7,559
+
 Profit Margin: 40%
 
 ✅ Visualizations:
@@ -25,7 +29,9 @@ Profit Margin: 40%
 ✅ Filter Options:
 
 Category: Kids, Men, Women
+
 Month: January – July
+
 State: Delhi, Gujarat, Karnataka, etc.
 
 
@@ -41,15 +47,14 @@ State: Delhi, Gujarat, Karnataka, etc.
 📌 Tools & Technologies Used
 
 Microsoft Excel
-Pivot Tables
-Slicers
-Charts (Pie, Bar, Column, Map)
-Data Formatting and KPI Metrics
+,Pivot Tables
+,Slicers
+,Charts (Pie, Bar, Column, Map)
+,Data Formatting and KPI Metrics
 
 📈 Key Insights
 
 Women category contributes the highest (34%) to total sales.
-
 
 Rajasthan leads in sales revenue among states.
 
@@ -63,4 +68,5 @@ Top clothing types by profit: Dresses, Skirts, Pants.
 
 For feedback:
 ✉️ Email: arnimagoswami2001@gmail.com
+
 💼 LinkedIn: Arnima Goswami
